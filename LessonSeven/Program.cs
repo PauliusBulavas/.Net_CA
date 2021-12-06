@@ -64,9 +64,8 @@ namespace LessonSeven
 
             /// task 2
             /// 
-            LibraryBook book = new LibraryBook(112, "Mechanic", "Valode", new DateTime(2021, 10, 01));
-            //book.Date = new DateTime(2021, 12, 06);
-            book.BookTimeAtUser();
+            //LibraryBook book = new LibraryBook(112, "Mechanic", "Valode", new DateTime(2021, 10, 01));
+            //book.BookTimeAtUser();
         }
     }
 }
