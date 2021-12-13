@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace LessonSeven
 {
@@ -45,9 +46,60 @@ namespace LessonSeven
             }
 
         }
+
+        public struct Squere
+        {
+            public int Lenght;
+            public int Width;
+
+
+            public Squere(int lenght, int width)
+            {
+                Lenght = lenght;
+                Width = width;
+
+            }
+
+            public int CalculateArea(int lenght, int width)
+            {
+                int area = width * lenght;
+                Console.WriteLine($"the area of the squere is {area}");
+                return area;
+            }
+
+        }
+
+        public struct Students
+        {
+            public int ID;
+            public bool Result;
+
+            public Students(int id, bool result)
+            {
+                ID = id;
+                Result = result;
+            }
+
+            public void AddStudent()
+            {
+                List<string> StudentList = new List<string>();
+                Console.WriteLine("input the first student");
+                StudentList.Add(Console.ReadLine());
+                Console.WriteLine("input the second student");
+                StudentList.Add(Console.ReadLine());
+                Console.WriteLine("input the third student");
+                StudentList.Add(Console.ReadLine());
+                Console.WriteLine("input the fourth student");
+                StudentList.Add(Console.ReadLine());
+                Console.WriteLine("input the fifth student");
+                StudentList.Add(Console.ReadLine());
+            }
+        }
+
+
         static void Main(string[] args)
         {
-            /// task 1
+            /// task 1 ///
             /// 
 
             //Console.WriteLine("Input your name");
@@ -62,10 +114,38 @@ namespace LessonSeven
             //Student student = new Student(name, surname, startOf, endOf);
             //student.GetData();
 
-            /// task 2
+            /// task 2 ///
             /// 
+
             //LibraryBook book = new LibraryBook(112, "Mechanic", "Valode", new DateTime(2021, 10, 01));
             //book.BookTimeAtUser();
+
+            /// task 3 ///
+            /// 
+
+            //Console.WriteLine("input the width and lenght of the first squere");
+            //int width = Convert.ToInt32(Console.ReadLine());
+            //int lenght = Convert.ToInt32(Console.ReadLine());
+            //Squere squereOne = new Squere(lenght, width);
+            //int areaOne = squereOne.CalculateArea(lenght, width);
+
+            //Console.WriteLine("input the width and lenght of the second squere");
+            //int width1 = Convert.ToInt32(Console.ReadLine());
+            //int lenght1 = Convert.ToInt32(Console.ReadLine());
+            //Squere squereTwo = new Squere(lenght1, width1);
+            //int areaTwo = squereTwo.CalculateArea(lenght1, width1);
+
+            //Console.WriteLine("input the width and lenght of the thrid squere");
+            //int width2 = Convert.ToInt32(Console.ReadLine());
+            //int lenght2 = Convert.ToInt32(Console.ReadLine());
+            //Squere squereThree = new Squere(lenght2, width2);
+            //int areaThree = squereThree.CalculateArea(lenght2, width2);
+
+            /// task 4 ///
+            /// 
+            Students students = new Students(id, result);
+            students.AddStudent();
+
         }
     }
 }
