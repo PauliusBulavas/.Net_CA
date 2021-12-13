@@ -195,9 +195,14 @@ namespace LessonSeven
             //Students students = new Students(id, result);
             //students.AddStudent();
 
-            /// task 5///
+            /// task 5 ///
             /// 
-            Grades.Option();
+            //Grades.Option();
+
+            /// task 6 ///
+            ///
+
+
             
         }
     }
