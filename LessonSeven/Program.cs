@@ -1,9 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace LessonSeven
 {
-    class Program
+    public class Program
     {
         public struct Student
         {
@@ -96,6 +97,54 @@ namespace LessonSeven
             }
         }
 
+        public struct Grades
+        {
+            public static double[] FirstTri = new double[] { 10, 3, 6, 8, 10 };
+            public static double[] SecondTri = new double[] { 5, 2, 3, 4, 5 };
+            public static double[] ThirdTri = new double[] { 8, 1, 10, 5, 8 };
+
+            public static void Option()
+            {
+                double o;
+                Console.WriteLine("choice of avrege for which trimester");
+                Console.WriteLine("1 - trimester 2 - yearlyaverage");
+                int choice = Convert.ToInt32(Console.ReadLine());
+
+                switch (choice)
+                {
+                    case 1:
+                        Console.WriteLine(Grades.Average(FirstTri));
+                        Console.WriteLine(Grades.Average(SecondTri));
+                        Console.WriteLine(Grades.Average(ThirdTri));
+                    break;
+
+                    case 2:
+                        Grades.YearlyAvg();
+                    break;
+
+                    default:
+                        Console.WriteLine("wrong input");
+                        break;
+                }
+                
+
+                
+            }
+            public static double Average(double[] tri)
+            {
+                double average = tri.Sum()/tri.Count();
+                return average;
+            }
+            public static void YearlyAvg()
+            {
+                double yearly = (FirstTri.Average() + SecondTri.Average() + ThirdTri.Average()) / 3;
+                Console.WriteLine($"average yearly grade is {yearly}");
+                Console.ReadLine();
+
+            }
+        } 
+
+
 
         static void Main(string[] args)
         {
@@ -143,9 +192,13 @@ namespace LessonSeven
 
             /// task 4 ///
             /// 
-            Students students = new Students(id, result);
-            students.AddStudent();
+            //Students students = new Students(id, result);
+            //students.AddStudent();
 
+            /// task 5///
+            /// 
+            Grades.Option();
+            
         }
     }
 }
