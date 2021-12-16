@@ -3,7 +3,7 @@ using System.Globalization;
 using System.Text;
 using System.Xml;
 
-namespace Lenkas
+namespace CurrencyCalculator
 {
     class Program
     {
