@@ -8,6 +8,7 @@ namespace SavarankiskasAirGenerator
     {
         public ReportGenerator()
         {
+            _AircraftModelRepository = AircraftModel;
 
         }
     }
