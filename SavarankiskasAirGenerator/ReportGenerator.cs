@@ -1,14 +1,19 @@
-﻿using System;
+﻿using SavarankiskasAirGenerator.Repositories;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace SavarankiskasAirGenerator
 {
-    class ReportGenerator
+    public class ReportGenerator
     {
         public ReportGenerator()
         {
-            _AircraftModelRepository = AircraftModel;
+            _AircraftModelRepository    =   AircraftModelRepository;
+            _AircraftRepository         =   AircraftRepository;
+            _CompanyRepository          =   CompanyRepository;
+            _CountryRepository          =   CountryRepository;
+
 
         }
     }

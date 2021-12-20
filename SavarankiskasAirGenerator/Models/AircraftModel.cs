@@ -6,9 +6,9 @@ namespace SavarankiskasAirGenerator
 {
     public class AircraftModel
     {
-        public int Id { get; private set; }
-        public string Number { get; set; }
-        public string Description { get; set; }
+        public int      Id          { get; private set; }
+        public string   Number      { get; set; }
+        public string   Description { get; set; }
 
         public AircraftModel()
         {
@@ -17,9 +17,9 @@ namespace SavarankiskasAirGenerator
 
         public AircraftModel(int id, string number, string description)
         {
-            Id              = id;
-            Number          = number;
-            Description     = description;
+            Id              =   id;
+            Number          =   number;
+            Description     =   description;
         }
     }
 }
