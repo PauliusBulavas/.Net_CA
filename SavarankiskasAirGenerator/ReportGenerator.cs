@@ -26,19 +26,28 @@ namespace SavarankiskasAirGenerator
 
         public List<ReportItem> GenerateReportAircraftInEurope()
         {
-            List<Aircraft> aircrafts = _aircraftRepository.Retrieve();
+            List<Aircraft> aircrafts    = _aircraftRepository.Retrieve();
+            List<ReportItem> report     = new List<ReportItem>();
 
             foreach (var aircaft in aircrafts)
             {
                 Company aircraftCompany         = _companyRepository.Retrieve(aircaft.CompanyId);
-                Country aircraftCountry         = _countryRepository.Retrieve(aircraftCompany.CountryId);
+                Country aircraftCountry         = _countryRepository.Retrieve(aircraftCompany.Id);
                 AircraftModel aircraftModel     = _aircraftModelRepository.Retrieve(aircraftCountry.Id);
-                if (aircraftModel == "Europe")
+                if (aircraftCountry.Continent == "Europe")
                 {
-
+                    ReportItem line = new ReportItem();
+                    line.TailNumberOfAircraft = aircaft.TailNumber;
+                    line.ModelOfAircarft = aircraftModel.Number;
+                    line.ModelDescription = aircraftModel.Description;
+                    line.CompanyOfAircraft = aircraftCompany.Name;
+                    line.CountryCode = aircraftCountry.Code;
+                    line.CountryName = aircraftCountry.Name;
+                    line.IsPartOfEU = aircraftCountry.BelongsToEu;
+                    report.Add(line);
                 }
-
             }
+
 
         }
     }
