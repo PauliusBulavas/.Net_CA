@@ -9,11 +9,6 @@ namespace SavarankiskasAirGenerator
     {
         public ReportGenerator()
         {
-            _AircraftModelRepository    =   AircraftModelRepository;
-            _AircraftRepository         =   AircraftRepository;
-            _CompanyRepository          =   CompanyRepository;
-            _CountryRepository          =   CountryRepository;
-
 
         }
     }

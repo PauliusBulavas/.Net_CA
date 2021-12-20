@@ -144,7 +144,7 @@ namespace SavarankiskasAirGenerator.Repositories
             return companies;
         }
 
-        public List<Company> Retrieve(int companyId)
+        public Company Retrieve(int companyId)
         {
             foreach (Company company in companies)
             {

@@ -25,7 +25,7 @@ namespace SavarankiskasAirGenerator.Repositories
             return aircraftModels;
         }
 
-        public List<AircraftModel> Retrieve(int aircraftModelId)
+        public AircraftModel Retrieve(int aircraftModelId)
         {
             foreach (AircraftModel aircraftModel in aircraftModels)
             {

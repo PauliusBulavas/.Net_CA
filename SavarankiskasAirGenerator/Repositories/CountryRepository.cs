@@ -245,7 +245,7 @@ namespace SavarankiskasAirGenerator.Repositories
             return countries;
         }
 
-        public List<Country> Retrieve(int countryId)
+        public Country Retrieve(int countryId)
         {
             foreach (Country country in countries)
             {
