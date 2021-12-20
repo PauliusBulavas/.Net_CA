@@ -19,11 +19,11 @@ namespace SavarankiskasAirGenerator
 
         public Country(int id, string code, string name, string continent, bool? belongsToEu)
         {
-            Id          =   id;
-            Code        =   code;
-            Name        =   name;
-            Continent   =   continent;
-            BelongsToEu =   belongsToEu;
+            Id          = id;
+            Code        = code;
+            Name        = name;
+            Continent   = continent;
+            BelongsToEu = belongsToEu;
         }
     }
 }

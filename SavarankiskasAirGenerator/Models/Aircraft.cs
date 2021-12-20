@@ -18,10 +18,10 @@ namespace SavarankiskasAirGenerator
 
         public Aircraft(int id, int modelId, int companyId, string tailNumber)
         {
-            Id          =   id;
-            ModelId     =   modelId;
-            CompanyId   =   companyId;
-            TailNumber  =   tailNumber;
+            Id          = id;
+            ModelId     = modelId;
+            CompanyId   = companyId;
+            TailNumber  = tailNumber;
         }
 
     }

@@ -17,9 +17,9 @@ namespace SavarankiskasAirGenerator
 
         public Company(int id, string name, int? countryId)
         {
-            Id = id;
-            Name = name;
-            CountryId = countryId;
+            Id          = id;
+            Name        = name;
+            CountryId   = countryId;
         }
     }
 }

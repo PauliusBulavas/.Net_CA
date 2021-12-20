@@ -17,9 +17,9 @@ namespace SavarankiskasAirGenerator
 
         public AircraftModel(int id, string number, string description)
         {
-            Id              =   id;
-            Number          =   number;
-            Description     =   description;
+            Id              = id;
+            Number          = number;
+            Description     = description;
         }
     }
 }
