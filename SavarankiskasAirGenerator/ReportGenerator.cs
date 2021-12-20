@@ -6,5 +6,9 @@ namespace SavarankiskasAirGenerator
 {
     class ReportGenerator
     {
+        public ReportGenerator()
+        {
+
+        }
     }
 }

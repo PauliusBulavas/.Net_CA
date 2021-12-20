@@ -4,8 +4,12 @@ using System.Text;
 
 namespace SavarankiskasAirGenerator
 {
-    class AircraftModel
+    public class AircraftModel
     {
+        public int Id { get; private set; }
+        public string Number { get; set; }
+        public string Description { get; set; }
+
         public AircraftModel()
         {
 
@@ -17,8 +21,5 @@ namespace SavarankiskasAirGenerator
             Number          = number;
             Description     = description;
         }
-        public int Id               { get; private set; }
-        public string Number        { get; set; }
-        public string Description   { get; set; }
     }
 }

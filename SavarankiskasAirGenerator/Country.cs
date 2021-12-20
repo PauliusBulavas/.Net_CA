@@ -4,8 +4,14 @@ using System.Text;
 
 namespace SavarankiskasAirGenerator
 {
-    class Country
+    public class Country
     {
+        public int Id { get; private set; }
+        public string Code { get; set; }
+        public string Name { get; set; }
+        public string Continent { get; set; }
+        public bool BelongsToEu { get; set; }
+
         public Country()
         {
 
@@ -19,11 +25,6 @@ namespace SavarankiskasAirGenerator
             Continent = continent;
             BelongsToEu = belongsToEu;
         }
-        public int Id { get; private set; }
-        public string Code { get; set; }
-        public string Name { get; set; }
-        public string Continent { get; set; }
-        public bool BelongsToEu { get; set; }
     }
 }
-}
+
