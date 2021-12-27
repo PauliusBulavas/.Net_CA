@@ -8,14 +8,14 @@ namespace SavarankiskasAirGenerator.Repositories
 
         public CompanyRepository()
         {
-            companies.Add(new Company(6007, "Grand Enterprises O.L Ltd.", 201));
-            companies.Add(new Company(1328, "AV-EX AVIATION EXCELLENCE", 3));
-            companies.Add(new Company(1329, "AVIA TECHNIQUE LTD.", 35));
-            companies.Add(new Company(1330, "Aviall Services Inc.", 146));
+            companies.Add(new Company(1082, "Grand Enterprises O.L Ltd.", 201)); //6007
+            companies.Add(new Company(1082, "AV-EX AVIATION EXCELLENCE", 3)); //1328
+            companies.Add(new Company(1093, "AVIA TECHNIQUE LTD.", 35)); //1329
+            companies.Add(new Company(1093, "Aviall Services Inc.", 146)); //1330
             companies.Add(new Company(1331, "Air Atlanta Aviaservices LIMITED", 35));
             companies.Add(new Company(1332, "AVIATION EXCESS INC.", 3));
             companies.Add(new Company(1333, "AVIATION GRAPHIX  LTD", 202));
-            companies.Add(new Company(1334, "AVIATION POWER INC.", 3));
+            companies.Add(new Company(6202, "AVIATION POWER INC.", 3)); //1334
             companies.Add(new Company(1335, "AVIATION SUPPORT EUROPE", 89));
             companies.Add(new Company(1336, "AVIATRONICS, INC.", 3));
             companies.Add(new Company(1337, "AVIO-DIEPEN B.V.", 146));
@@ -43,7 +43,7 @@ namespace SavarankiskasAirGenerator.Repositories
             companies.Add(new Company(1378, "BROWN AVIATION TOOL SUPP", 3));
             companies.Add(new Company(1379, "BURWOOD AVIATION SUPPLIES LTD", 35));
             companies.Add(new Company(1380, "CABINAIR SERVICES", 35));
-            companies.Add(new Company(1381, "CANJET - A DIVISION OF IMP GROUP LTD", 102));
+            companies.Add(new Company(1120, "CANJET - A DIVISION OF IMP GROUP LTD", 102)); //1381
             companies.Add(new Company(1382, "CARA AVIATION SERVICES", 3));
             companies.Add(new Company(1383, "CARLISLE INTERCONNECT TECHNOLOGIES", 3));
             companies.Add(new Company(1384, "CARPATAIR S.A.", 71));
@@ -99,7 +99,7 @@ namespace SavarankiskasAirGenerator.Repositories
             companies.Add(new Company(1916, "Aero-Zone, Inc", 3));
             companies.Add(new Company(1950, "HELIPONENTS, INC.", 3));
             companies.Add(new Company(1951, "CALSTAR", 3));
-            companies.Add(new Company(1952, "AIRWORK NEW ZEALAND LIMITED", null));
+            //companies.Add(new Company(1952, "AIRWORK NEW ZEALAND LIMITED", null));
             companies.Add(new Company(1953, "ALARIS AEROSPACE SYSTEMS LLC.", 3));
             companies.Add(new Company(1954, "HONG KONG LIBERTY AVIATION SERVICES.", 3));
             companies.Add(new Company(1955, "IAS INDUSTRIAL & AIRBORNE SYSTEMS", 5));

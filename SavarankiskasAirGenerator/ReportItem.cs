@@ -13,5 +13,6 @@ namespace SavarankiskasAirGenerator
         public string   CountryName             { get; set; }
         public string   ModelDescription        { get; set; }
         public bool?    IsPartOfEU              { get; set; }
+        public string    IsOtherContinent        { get; set; }
     }
 }

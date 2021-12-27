@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32002.261
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SavarankiskasAirGenerator", "SavarankiskasAirGenerator.csproj", "{25467A24-E982-443A-877E-753C31E28EC9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SavarankiskasAirGenerator", "SavarankiskasAirGenerator.csproj", "{25467A24-E982-443A-877E-753C31E28EC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingAirGenerator", "..\TestingAirGenerator\TestingAirGenerator.csproj", "{399BE988-66A0-4E0C-BE32-BED99C911A51}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{25467A24-E982-443A-877E-753C31E28EC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{25467A24-E982-443A-877E-753C31E28EC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{25467A24-E982-443A-877E-753C31E28EC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{399BE988-66A0-4E0C-BE32-BED99C911A51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{399BE988-66A0-4E0C-BE32-BED99C911A51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{399BE988-66A0-4E0C-BE32-BED99C911A51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{399BE988-66A0-4E0C-BE32-BED99C911A51}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

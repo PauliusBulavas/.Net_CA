@@ -8,11 +8,11 @@ namespace SavarankiskasAirGenerator.Repositories
 
         public CountryRepository()
         {
-            countries.Add(new Country(1, "LT", "Lithuania", "Europe", true));
+            countries.Add(new Country(1, "LT", "Lithuania", "Europe", true)); //1
             countries.Add(new Country(229, "KR", "Republic of South Korea", "Asia", false));
-            countries.Add(new Country(224, "PL", "Poland", "Europe", true));
+            countries.Add(new Country(224, "PL", "Poland", "Europe", true)); //224
             countries.Add(new Country(5, "DE", "Germany", "Europe", true));
-            countries.Add(new Country(223, "RS", "Serbia", "Europe", false));
+            countries.Add(new Country(201, "RS", "Serbia", "Europe", false)); //223
             countries.Add(new Country(3, "US", "USA", "North America", false));
             countries.Add(new Country(6, "AD", "Andorra", "Europe", false));
             countries.Add(new Country(7, "AE", "United Arab Emirates", "Asia", false));
@@ -43,7 +43,7 @@ namespace SavarankiskasAirGenerator.Repositories
             countries.Add(new Country(32, "UY", "Uruguay", "South America", false));
             countries.Add(new Country(36, "UG", "Uganda", "Africa", false));
             countries.Add(new Country(34, "UM", "USA Minor Outlying Islands", "North America", false));
-            countries.Add(new Country(35, "UK", "United Kingdom", "Europe", true));
+            countries.Add(new Country(35, "UK", "United Kingdom", "Europe", true)); //
             countries.Add(new Country(37, "UA", "Ukraine", "Europe", false));
             countries.Add(new Country(38, "TZ", "Tanzania", "Africa", false));
             countries.Add(new Country(39, "TW", "Taiwan", "Asia", false));
@@ -151,7 +151,7 @@ namespace SavarankiskasAirGenerator.Repositories
             countries.Add(new Country(143, "NR", "Nauru", "Australia/Oceania", false));
             countries.Add(new Country(144, "NP", "Nepal", "Asia", false));
             countries.Add(new Country(145, "NO", "Norway", "Europe", false));
-            countries.Add(new Country(146, "NL", "Netherlands", "Europe", true));
+            countries.Add(new Country(146, "NL", "Netherlands", "Europe", true)); //
             countries.Add(new Country(147, "NG", "Nigeria", "Africa", false));
             countries.Add(new Country(148, "NF", "Norfolk Island", "Australia/Oceania", false));
             countries.Add(new Country(149, "NE", "Niger", "Africa", false));

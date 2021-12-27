@@ -7,7 +7,6 @@ namespace SavarankiskasAirGenerator
 { 
     public class ReportGenerator
     {
-
         private AircraftModelRepository _aircraftModelRepository;
         private AircraftRepository      _aircraftRepository;
         private CompanyRepository       _companyRepository;
@@ -29,26 +28,77 @@ namespace SavarankiskasAirGenerator
             List<Aircraft> aircrafts    = _aircraftRepository.Retrieve();
             List<ReportItem> report     = new List<ReportItem>();
 
-            foreach (var aircaft in aircrafts)
+            foreach (var aircraft in aircrafts)
             {
-                Company aircraftCompany         = _companyRepository.Retrieve(aircaft.CompanyId);
-                Country aircraftCountry         = _countryRepository.Retrieve(aircraftCompany.Id);
-                AircraftModel aircraftModel     = _aircraftModelRepository.Retrieve(aircraftCountry.Id);
+                var company             = _companyRepository.Retrieve(aircraft.CompanyId);
+                if (company == null)
+                {
+                    continue;
+                }
+                var country             = _countryRepository.Retrieve(company.CountryId);
+                var aircraftModel       = _aircraftModelRepository.Retrieve(aircraft.ModelId);
 
-                if (aircraftCountry.Continent == "Europe")
+                if (country.Continent == "Europe")
                 {
                     ReportItem line             = new ReportItem();
-                    line.TailNumberOfAircraft   = aircaft.TailNumber;
+                    line.TailNumberOfAircraft   = aircraft.TailNumber;
                     line.ModelOfAircarft        = aircraftModel.Number;
                     line.ModelDescription       = aircraftModel.Description;
-                    line.CompanyOfAircraft      = aircraftCompany.Name;
-                    line.CountryCode            = aircraftCountry.Code;
-                    line.CountryName            = aircraftCountry.Name;
-                    line.IsPartOfEU             = aircraftCountry.BelongsToEu;
+                    line.CompanyOfAircraft      = company.Name;
+                    line.CountryCode            = country.Code;
+                    line.CountryName            = country.Name;
+                    line.IsPartOfEU             = country.BelongsToEu;
+                    report.Add(line);
+                }
+
+                else if (country.Continent != "Europe")
+                {
+                    ReportItem line = new ReportItem();
+                    line.TailNumberOfAircraft = aircraft.TailNumber;
+                    line.ModelOfAircarft = aircraftModel.Number;
+                    line.ModelDescription = aircraftModel.Description;
+                    line.CompanyOfAircraft = company.Name;
+                    line.CountryCode = country.Code;
+                    line.CountryName = country.Name;
+                    line.IsOtherContinent = country.Continent;
+                    report.Add(line);
+                }
+
+
+            }
+            return report;
+        }
+
+        public List<ReportItem> GenerateReportAircraftOtherContinents()
+        {
+            List<Aircraft> aircrafts = _aircraftRepository.Retrieve();
+            List<ReportItem> report = new List<ReportItem>();
+
+            foreach (var aircraft in aircrafts)
+            {
+                var company = _companyRepository.Retrieve(aircraft.CompanyId);
+                if (company == null)
+                {
+                    continue;
+                }
+                var country = _countryRepository.Retrieve(company.CountryId);
+                var aircraftModel = _aircraftModelRepository.Retrieve(aircraft.ModelId);
+
+                if (country.Continent != "Europe")
+                {
+                    ReportItem line = new ReportItem();
+                    line.TailNumberOfAircraft = aircraft.TailNumber;
+                    line.ModelOfAircarft = aircraftModel.Number;
+                    line.ModelDescription = aircraftModel.Description;
+                    line.CompanyOfAircraft = company.Name;
+                    line.CountryCode = country.Code;
+                    line.CountryName = country.Name;
+                    line.IsOtherContinent = country.Continent;
                     report.Add(line);
                 }
             }
             return report;
         }
+
     }
 }
