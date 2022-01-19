@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PamokaSesiolika": {
+      "commandName": "Project",
+      "commandLineArgs": "--file C:\\Users\\pauli\\Documents\\GitHub\\.Net_CA\\PamokaSesiolika\\data\\some_data.txt"
+    }
+  }
+}

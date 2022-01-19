@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.Linq;
 
 namespace SavarankiskasAirGenerator.Repositories
 {
@@ -256,5 +257,10 @@ namespace SavarankiskasAirGenerator.Repositories
             }
             return null;
         }
+        //public Country GetById(int id)
+        //{
+        //    var order = countries.FirstOrDefault(x => x.Id == id);
+        //    return country;
+        //}
     }
 }
