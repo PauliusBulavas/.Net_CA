@@ -1,0 +1,10 @@
+C:\Users\pauli\Documents\GitHub\.Net_CA\Saskaita\bin\Debug\netcoreapp3.1\Saskaita.deps.json
+C:\Users\pauli\Documents\GitHub\.Net_CA\Saskaita\bin\Debug\netcoreapp3.1\Saskaita.dll
+C:\Users\pauli\Documents\GitHub\.Net_CA\Saskaita\bin\Debug\netcoreapp3.1\Saskaita.pdb
+C:\Users\pauli\Documents\GitHub\.Net_CA\Saskaita\obj\Debug\netcoreapp3.1\Saskaita.csproj.AssemblyReference.cache
+C:\Users\pauli\Documents\GitHub\.Net_CA\Saskaita\obj\Debug\netcoreapp3.1\Saskaita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauli\Documents\GitHub\.Net_CA\Saskaita\obj\Debug\netcoreapp3.1\Saskaita.AssemblyInfoInputs.cache
+C:\Users\pauli\Documents\GitHub\.Net_CA\Saskaita\obj\Debug\netcoreapp3.1\Saskaita.AssemblyInfo.cs
+C:\Users\pauli\Documents\GitHub\.Net_CA\Saskaita\obj\Debug\netcoreapp3.1\Saskaita.csproj.CoreCompileInputs.cache
+C:\Users\pauli\Documents\GitHub\.Net_CA\Saskaita\obj\Debug\netcoreapp3.1\Saskaita.dll
+C:\Users\pauli\Documents\GitHub\.Net_CA\Saskaita\obj\Debug\netcoreapp3.1\Saskaita.pdb

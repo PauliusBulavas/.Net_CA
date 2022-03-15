@@ -1,0 +1,14 @@
+C:\Users\pauli\Documents\GitHub\.Net_CA\PamokaSesiolika\bin\Debug\netcoreapp3.1\PamokaSesiolika.exe
+C:\Users\pauli\Documents\GitHub\.Net_CA\PamokaSesiolika\bin\Debug\netcoreapp3.1\PamokaSesiolika.deps.json
+C:\Users\pauli\Documents\GitHub\.Net_CA\PamokaSesiolika\bin\Debug\netcoreapp3.1\PamokaSesiolika.runtimeconfig.json
+C:\Users\pauli\Documents\GitHub\.Net_CA\PamokaSesiolika\bin\Debug\netcoreapp3.1\PamokaSesiolika.runtimeconfig.dev.json
+C:\Users\pauli\Documents\GitHub\.Net_CA\PamokaSesiolika\bin\Debug\netcoreapp3.1\PamokaSesiolika.dll
+C:\Users\pauli\Documents\GitHub\.Net_CA\PamokaSesiolika\bin\Debug\netcoreapp3.1\PamokaSesiolika.pdb
+C:\Users\pauli\Documents\GitHub\.Net_CA\PamokaSesiolika\obj\Debug\netcoreapp3.1\PamokaSesiolika.csproj.AssemblyReference.cache
+C:\Users\pauli\Documents\GitHub\.Net_CA\PamokaSesiolika\obj\Debug\netcoreapp3.1\PamokaSesiolika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauli\Documents\GitHub\.Net_CA\PamokaSesiolika\obj\Debug\netcoreapp3.1\PamokaSesiolika.AssemblyInfoInputs.cache
+C:\Users\pauli\Documents\GitHub\.Net_CA\PamokaSesiolika\obj\Debug\netcoreapp3.1\PamokaSesiolika.AssemblyInfo.cs
+C:\Users\pauli\Documents\GitHub\.Net_CA\PamokaSesiolika\obj\Debug\netcoreapp3.1\PamokaSesiolika.csproj.CoreCompileInputs.cache
+C:\Users\pauli\Documents\GitHub\.Net_CA\PamokaSesiolika\obj\Debug\netcoreapp3.1\PamokaSesiolika.dll
+C:\Users\pauli\Documents\GitHub\.Net_CA\PamokaSesiolika\obj\Debug\netcoreapp3.1\PamokaSesiolika.pdb
+C:\Users\pauli\Documents\GitHub\.Net_CA\PamokaSesiolika\obj\Debug\netcoreapp3.1\PamokaSesiolika.genruntimeconfig.cache

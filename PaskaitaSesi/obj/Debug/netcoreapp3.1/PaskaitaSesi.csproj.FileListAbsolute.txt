@@ -1,0 +1,14 @@
+C:\Users\pauli\source\repos\PaskaitaSesi\obj\Debug\netcoreapp3.1\PaskaitaSesi.csproj.AssemblyReference.cache
+C:\Users\pauli\source\repos\PaskaitaSesi\obj\Debug\netcoreapp3.1\PaskaitaSesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauli\source\repos\PaskaitaSesi\obj\Debug\netcoreapp3.1\PaskaitaSesi.AssemblyInfoInputs.cache
+C:\Users\pauli\source\repos\PaskaitaSesi\obj\Debug\netcoreapp3.1\PaskaitaSesi.AssemblyInfo.cs
+C:\Users\pauli\source\repos\PaskaitaSesi\obj\Debug\netcoreapp3.1\PaskaitaSesi.csproj.CoreCompileInputs.cache
+C:\Users\pauli\source\repos\PaskaitaSesi\bin\Debug\netcoreapp3.1\PaskaitaSesi.exe
+C:\Users\pauli\source\repos\PaskaitaSesi\bin\Debug\netcoreapp3.1\PaskaitaSesi.deps.json
+C:\Users\pauli\source\repos\PaskaitaSesi\bin\Debug\netcoreapp3.1\PaskaitaSesi.runtimeconfig.json
+C:\Users\pauli\source\repos\PaskaitaSesi\bin\Debug\netcoreapp3.1\PaskaitaSesi.runtimeconfig.dev.json
+C:\Users\pauli\source\repos\PaskaitaSesi\bin\Debug\netcoreapp3.1\PaskaitaSesi.dll
+C:\Users\pauli\source\repos\PaskaitaSesi\bin\Debug\netcoreapp3.1\PaskaitaSesi.pdb
+C:\Users\pauli\source\repos\PaskaitaSesi\obj\Debug\netcoreapp3.1\PaskaitaSesi.dll
+C:\Users\pauli\source\repos\PaskaitaSesi\obj\Debug\netcoreapp3.1\PaskaitaSesi.pdb
+C:\Users\pauli\source\repos\PaskaitaSesi\obj\Debug\netcoreapp3.1\PaskaitaSesi.genruntimeconfig.cache

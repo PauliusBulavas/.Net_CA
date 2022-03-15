@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PaskaitaSesi/1.0.0": {
+        "runtime": {
+          "PaskaitaSesi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PaskaitaSesi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

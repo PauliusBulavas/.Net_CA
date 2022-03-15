@@ -1,0 +1,14 @@
+C:\Users\pauli\Documents\GitHub\.Net_CA\PaskaitaDesimt\bin\Debug\netcoreapp3.1\PaskaitaDesimt.exe
+C:\Users\pauli\Documents\GitHub\.Net_CA\PaskaitaDesimt\bin\Debug\netcoreapp3.1\PaskaitaDesimt.deps.json
+C:\Users\pauli\Documents\GitHub\.Net_CA\PaskaitaDesimt\bin\Debug\netcoreapp3.1\PaskaitaDesimt.runtimeconfig.json
+C:\Users\pauli\Documents\GitHub\.Net_CA\PaskaitaDesimt\bin\Debug\netcoreapp3.1\PaskaitaDesimt.runtimeconfig.dev.json
+C:\Users\pauli\Documents\GitHub\.Net_CA\PaskaitaDesimt\bin\Debug\netcoreapp3.1\PaskaitaDesimt.dll
+C:\Users\pauli\Documents\GitHub\.Net_CA\PaskaitaDesimt\bin\Debug\netcoreapp3.1\PaskaitaDesimt.pdb
+C:\Users\pauli\Documents\GitHub\.Net_CA\PaskaitaDesimt\obj\Debug\netcoreapp3.1\PaskaitaDesimt.csproj.AssemblyReference.cache
+C:\Users\pauli\Documents\GitHub\.Net_CA\PaskaitaDesimt\obj\Debug\netcoreapp3.1\PaskaitaDesimt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauli\Documents\GitHub\.Net_CA\PaskaitaDesimt\obj\Debug\netcoreapp3.1\PaskaitaDesimt.AssemblyInfoInputs.cache
+C:\Users\pauli\Documents\GitHub\.Net_CA\PaskaitaDesimt\obj\Debug\netcoreapp3.1\PaskaitaDesimt.AssemblyInfo.cs
+C:\Users\pauli\Documents\GitHub\.Net_CA\PaskaitaDesimt\obj\Debug\netcoreapp3.1\PaskaitaDesimt.csproj.CoreCompileInputs.cache
+C:\Users\pauli\Documents\GitHub\.Net_CA\PaskaitaDesimt\obj\Debug\netcoreapp3.1\PaskaitaDesimt.dll
+C:\Users\pauli\Documents\GitHub\.Net_CA\PaskaitaDesimt\obj\Debug\netcoreapp3.1\PaskaitaDesimt.pdb
+C:\Users\pauli\Documents\GitHub\.Net_CA\PaskaitaDesimt\obj\Debug\netcoreapp3.1\PaskaitaDesimt.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\pauli\Documents\GitHub\.Net_CA\XMLReadTesting\bin\Debug\netcoreapp3.1\XMLReadTesting.exe
+C:\Users\pauli\Documents\GitHub\.Net_CA\XMLReadTesting\bin\Debug\netcoreapp3.1\XMLReadTesting.deps.json
+C:\Users\pauli\Documents\GitHub\.Net_CA\XMLReadTesting\bin\Debug\netcoreapp3.1\XMLReadTesting.runtimeconfig.json
+C:\Users\pauli\Documents\GitHub\.Net_CA\XMLReadTesting\bin\Debug\netcoreapp3.1\XMLReadTesting.runtimeconfig.dev.json
+C:\Users\pauli\Documents\GitHub\.Net_CA\XMLReadTesting\bin\Debug\netcoreapp3.1\XMLReadTesting.dll
+C:\Users\pauli\Documents\GitHub\.Net_CA\XMLReadTesting\bin\Debug\netcoreapp3.1\XMLReadTesting.pdb
+C:\Users\pauli\Documents\GitHub\.Net_CA\XMLReadTesting\obj\Debug\netcoreapp3.1\XMLReadTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauli\Documents\GitHub\.Net_CA\XMLReadTesting\obj\Debug\netcoreapp3.1\XMLReadTesting.AssemblyInfoInputs.cache
+C:\Users\pauli\Documents\GitHub\.Net_CA\XMLReadTesting\obj\Debug\netcoreapp3.1\XMLReadTesting.AssemblyInfo.cs
+C:\Users\pauli\Documents\GitHub\.Net_CA\XMLReadTesting\obj\Debug\netcoreapp3.1\XMLReadTesting.csproj.CoreCompileInputs.cache
+C:\Users\pauli\Documents\GitHub\.Net_CA\XMLReadTesting\obj\Debug\netcoreapp3.1\XMLReadTesting.dll
+C:\Users\pauli\Documents\GitHub\.Net_CA\XMLReadTesting\obj\Debug\netcoreapp3.1\XMLReadTesting.pdb
+C:\Users\pauli\Documents\GitHub\.Net_CA\XMLReadTesting\obj\Debug\netcoreapp3.1\XMLReadTesting.genruntimeconfig.cache
+C:\Users\pauli\Documents\GitHub\.Net_CA\XMLReadTesting\obj\Debug\netcoreapp3.1\XMLReadTesting.csproj.AssemblyReference.cache

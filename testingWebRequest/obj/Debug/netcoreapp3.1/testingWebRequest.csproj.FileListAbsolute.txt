@@ -1,0 +1,14 @@
+C:\Users\pauli\Documents\GitHub\.Net_CA\testingWebRequest\bin\Debug\netcoreapp3.1\testingWebRequest.exe
+C:\Users\pauli\Documents\GitHub\.Net_CA\testingWebRequest\bin\Debug\netcoreapp3.1\testingWebRequest.deps.json
+C:\Users\pauli\Documents\GitHub\.Net_CA\testingWebRequest\bin\Debug\netcoreapp3.1\testingWebRequest.runtimeconfig.json
+C:\Users\pauli\Documents\GitHub\.Net_CA\testingWebRequest\bin\Debug\netcoreapp3.1\testingWebRequest.runtimeconfig.dev.json
+C:\Users\pauli\Documents\GitHub\.Net_CA\testingWebRequest\bin\Debug\netcoreapp3.1\testingWebRequest.dll
+C:\Users\pauli\Documents\GitHub\.Net_CA\testingWebRequest\bin\Debug\netcoreapp3.1\testingWebRequest.pdb
+C:\Users\pauli\Documents\GitHub\.Net_CA\testingWebRequest\obj\Debug\netcoreapp3.1\testingWebRequest.csproj.AssemblyReference.cache
+C:\Users\pauli\Documents\GitHub\.Net_CA\testingWebRequest\obj\Debug\netcoreapp3.1\testingWebRequest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauli\Documents\GitHub\.Net_CA\testingWebRequest\obj\Debug\netcoreapp3.1\testingWebRequest.AssemblyInfoInputs.cache
+C:\Users\pauli\Documents\GitHub\.Net_CA\testingWebRequest\obj\Debug\netcoreapp3.1\testingWebRequest.AssemblyInfo.cs
+C:\Users\pauli\Documents\GitHub\.Net_CA\testingWebRequest\obj\Debug\netcoreapp3.1\testingWebRequest.csproj.CoreCompileInputs.cache
+C:\Users\pauli\Documents\GitHub\.Net_CA\testingWebRequest\obj\Debug\netcoreapp3.1\testingWebRequest.dll
+C:\Users\pauli\Documents\GitHub\.Net_CA\testingWebRequest\obj\Debug\netcoreapp3.1\testingWebRequest.pdb
+C:\Users\pauli\Documents\GitHub\.Net_CA\testingWebRequest\obj\Debug\netcoreapp3.1\testingWebRequest.genruntimeconfig.cache

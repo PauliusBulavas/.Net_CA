@@ -1,0 +1,14 @@
+C:\Users\pauli\Documents\GitHub\.Net_CA\LessonSeven\bin\Debug\netcoreapp3.1\LessonSeven.exe
+C:\Users\pauli\Documents\GitHub\.Net_CA\LessonSeven\bin\Debug\netcoreapp3.1\LessonSeven.deps.json
+C:\Users\pauli\Documents\GitHub\.Net_CA\LessonSeven\bin\Debug\netcoreapp3.1\LessonSeven.runtimeconfig.json
+C:\Users\pauli\Documents\GitHub\.Net_CA\LessonSeven\bin\Debug\netcoreapp3.1\LessonSeven.runtimeconfig.dev.json
+C:\Users\pauli\Documents\GitHub\.Net_CA\LessonSeven\bin\Debug\netcoreapp3.1\LessonSeven.dll
+C:\Users\pauli\Documents\GitHub\.Net_CA\LessonSeven\bin\Debug\netcoreapp3.1\LessonSeven.pdb
+C:\Users\pauli\Documents\GitHub\.Net_CA\LessonSeven\obj\Debug\netcoreapp3.1\LessonSeven.csproj.AssemblyReference.cache
+C:\Users\pauli\Documents\GitHub\.Net_CA\LessonSeven\obj\Debug\netcoreapp3.1\LessonSeven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauli\Documents\GitHub\.Net_CA\LessonSeven\obj\Debug\netcoreapp3.1\LessonSeven.AssemblyInfoInputs.cache
+C:\Users\pauli\Documents\GitHub\.Net_CA\LessonSeven\obj\Debug\netcoreapp3.1\LessonSeven.AssemblyInfo.cs
+C:\Users\pauli\Documents\GitHub\.Net_CA\LessonSeven\obj\Debug\netcoreapp3.1\LessonSeven.csproj.CoreCompileInputs.cache
+C:\Users\pauli\Documents\GitHub\.Net_CA\LessonSeven\obj\Debug\netcoreapp3.1\LessonSeven.dll
+C:\Users\pauli\Documents\GitHub\.Net_CA\LessonSeven\obj\Debug\netcoreapp3.1\LessonSeven.pdb
+C:\Users\pauli\Documents\GitHub\.Net_CA\LessonSeven\obj\Debug\netcoreapp3.1\LessonSeven.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\pauli\Documents\GitHub\.Net_CA\AntraPaskaita\bin\Debug\netcoreapp3.1\AntraPaskaita.exe
+C:\Users\pauli\Documents\GitHub\.Net_CA\AntraPaskaita\bin\Debug\netcoreapp3.1\AntraPaskaita.deps.json
+C:\Users\pauli\Documents\GitHub\.Net_CA\AntraPaskaita\bin\Debug\netcoreapp3.1\AntraPaskaita.runtimeconfig.json
+C:\Users\pauli\Documents\GitHub\.Net_CA\AntraPaskaita\bin\Debug\netcoreapp3.1\AntraPaskaita.runtimeconfig.dev.json
+C:\Users\pauli\Documents\GitHub\.Net_CA\AntraPaskaita\bin\Debug\netcoreapp3.1\AntraPaskaita.dll
+C:\Users\pauli\Documents\GitHub\.Net_CA\AntraPaskaita\bin\Debug\netcoreapp3.1\AntraPaskaita.pdb
+C:\Users\pauli\Documents\GitHub\.Net_CA\AntraPaskaita\obj\Debug\netcoreapp3.1\AntraPaskaita.csproj.AssemblyReference.cache
+C:\Users\pauli\Documents\GitHub\.Net_CA\AntraPaskaita\obj\Debug\netcoreapp3.1\AntraPaskaita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauli\Documents\GitHub\.Net_CA\AntraPaskaita\obj\Debug\netcoreapp3.1\AntraPaskaita.AssemblyInfoInputs.cache
+C:\Users\pauli\Documents\GitHub\.Net_CA\AntraPaskaita\obj\Debug\netcoreapp3.1\AntraPaskaita.AssemblyInfo.cs
+C:\Users\pauli\Documents\GitHub\.Net_CA\AntraPaskaita\obj\Debug\netcoreapp3.1\AntraPaskaita.csproj.CoreCompileInputs.cache
+C:\Users\pauli\Documents\GitHub\.Net_CA\AntraPaskaita\obj\Debug\netcoreapp3.1\AntraPaskaita.dll
+C:\Users\pauli\Documents\GitHub\.Net_CA\AntraPaskaita\obj\Debug\netcoreapp3.1\AntraPaskaita.pdb
+C:\Users\pauli\Documents\GitHub\.Net_CA\AntraPaskaita\obj\Debug\netcoreapp3.1\AntraPaskaita.genruntimeconfig.cache

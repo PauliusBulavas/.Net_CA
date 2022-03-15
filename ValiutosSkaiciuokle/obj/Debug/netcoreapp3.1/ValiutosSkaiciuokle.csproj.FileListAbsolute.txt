@@ -1,0 +1,14 @@
+C:\Users\pauli\source\repos\ValiutosSkaiciuokle\bin\Debug\netcoreapp3.1\ValiutosSkaiciuokle.exe
+C:\Users\pauli\source\repos\ValiutosSkaiciuokle\bin\Debug\netcoreapp3.1\ValiutosSkaiciuokle.deps.json
+C:\Users\pauli\source\repos\ValiutosSkaiciuokle\bin\Debug\netcoreapp3.1\ValiutosSkaiciuokle.runtimeconfig.json
+C:\Users\pauli\source\repos\ValiutosSkaiciuokle\bin\Debug\netcoreapp3.1\ValiutosSkaiciuokle.runtimeconfig.dev.json
+C:\Users\pauli\source\repos\ValiutosSkaiciuokle\bin\Debug\netcoreapp3.1\ValiutosSkaiciuokle.dll
+C:\Users\pauli\source\repos\ValiutosSkaiciuokle\bin\Debug\netcoreapp3.1\ValiutosSkaiciuokle.pdb
+C:\Users\pauli\source\repos\ValiutosSkaiciuokle\obj\Debug\netcoreapp3.1\ValiutosSkaiciuokle.csproj.AssemblyReference.cache
+C:\Users\pauli\source\repos\ValiutosSkaiciuokle\obj\Debug\netcoreapp3.1\ValiutosSkaiciuokle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauli\source\repos\ValiutosSkaiciuokle\obj\Debug\netcoreapp3.1\ValiutosSkaiciuokle.AssemblyInfoInputs.cache
+C:\Users\pauli\source\repos\ValiutosSkaiciuokle\obj\Debug\netcoreapp3.1\ValiutosSkaiciuokle.AssemblyInfo.cs
+C:\Users\pauli\source\repos\ValiutosSkaiciuokle\obj\Debug\netcoreapp3.1\ValiutosSkaiciuokle.csproj.CoreCompileInputs.cache
+C:\Users\pauli\source\repos\ValiutosSkaiciuokle\obj\Debug\netcoreapp3.1\ValiutosSkaiciuokle.dll
+C:\Users\pauli\source\repos\ValiutosSkaiciuokle\obj\Debug\netcoreapp3.1\ValiutosSkaiciuokle.pdb
+C:\Users\pauli\source\repos\ValiutosSkaiciuokle\obj\Debug\netcoreapp3.1\ValiutosSkaiciuokle.genruntimeconfig.cache

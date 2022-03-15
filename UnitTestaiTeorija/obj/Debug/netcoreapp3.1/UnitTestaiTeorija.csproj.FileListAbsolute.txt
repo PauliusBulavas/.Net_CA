@@ -1,0 +1,14 @@
+C:\Users\pauli\Documents\GitHub\.Net_CA\UnitTestaiTeorija\bin\Debug\netcoreapp3.1\UnitTestaiTeorija.exe
+C:\Users\pauli\Documents\GitHub\.Net_CA\UnitTestaiTeorija\bin\Debug\netcoreapp3.1\UnitTestaiTeorija.deps.json
+C:\Users\pauli\Documents\GitHub\.Net_CA\UnitTestaiTeorija\bin\Debug\netcoreapp3.1\UnitTestaiTeorija.runtimeconfig.json
+C:\Users\pauli\Documents\GitHub\.Net_CA\UnitTestaiTeorija\bin\Debug\netcoreapp3.1\UnitTestaiTeorija.runtimeconfig.dev.json
+C:\Users\pauli\Documents\GitHub\.Net_CA\UnitTestaiTeorija\bin\Debug\netcoreapp3.1\UnitTestaiTeorija.dll
+C:\Users\pauli\Documents\GitHub\.Net_CA\UnitTestaiTeorija\bin\Debug\netcoreapp3.1\UnitTestaiTeorija.pdb
+C:\Users\pauli\Documents\GitHub\.Net_CA\UnitTestaiTeorija\obj\Debug\netcoreapp3.1\UnitTestaiTeorija.csproj.AssemblyReference.cache
+C:\Users\pauli\Documents\GitHub\.Net_CA\UnitTestaiTeorija\obj\Debug\netcoreapp3.1\UnitTestaiTeorija.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauli\Documents\GitHub\.Net_CA\UnitTestaiTeorija\obj\Debug\netcoreapp3.1\UnitTestaiTeorija.AssemblyInfoInputs.cache
+C:\Users\pauli\Documents\GitHub\.Net_CA\UnitTestaiTeorija\obj\Debug\netcoreapp3.1\UnitTestaiTeorija.AssemblyInfo.cs
+C:\Users\pauli\Documents\GitHub\.Net_CA\UnitTestaiTeorija\obj\Debug\netcoreapp3.1\UnitTestaiTeorija.csproj.CoreCompileInputs.cache
+C:\Users\pauli\Documents\GitHub\.Net_CA\UnitTestaiTeorija\obj\Debug\netcoreapp3.1\UnitTestaiTeorija.dll
+C:\Users\pauli\Documents\GitHub\.Net_CA\UnitTestaiTeorija\obj\Debug\netcoreapp3.1\UnitTestaiTeorija.pdb
+C:\Users\pauli\Documents\GitHub\.Net_CA\UnitTestaiTeorija\obj\Debug\netcoreapp3.1\UnitTestaiTeorija.genruntimeconfig.cache

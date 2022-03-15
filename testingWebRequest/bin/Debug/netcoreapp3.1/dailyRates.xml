@@ -1,0 +1,1294 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Euro(EUR) Currency Converter</title>
+    <link>https://eur.fxexchangerate.com/</link>
+    <description>Euro(EUR) Exchange Rates</description>
+    <atom:link href="https://eur.fxexchangerate.com/rss.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Dec 2021 10:05:18 PST</lastBuildDate>
+    <language>en</language>
+    <copyright>Copyright© 2021 Currency Converter,  https://www.fxexchangerate.com/ </copyright>
+    <docs>https://www.fxexchangerate.com/currency-converter-rss-feed.html</docs>
+    <ttl>15</ttl>
+    <item>
+      <title>Euro(EUR)/Australian Dollar(AUD)</title>
+      <link>https://aud.fxexchangerate.com/</link>
+      <guid>https://aud.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 1.57972 Australian Dollar</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Albanian Lek(ALL)</title>
+      <link>https://all.fxexchangerate.com/</link>
+      <guid>https://all.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 120.8192 Albanian Lek</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Algerian Dinar(DZD)</title>
+      <link>https://dzd.fxexchangerate.com/</link>
+      <guid>https://dzd.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 156.98048 Algerian Dinar</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Argentine Peso(ARS)</title>
+      <link>https://ars.fxexchangerate.com/</link>
+      <guid>https://ars.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 114.70558 Argentine Peso</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Aruba Florin(AWG)</title>
+      <link>https://awg.fxexchangerate.com/</link>
+      <guid>https://awg.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 2.0283 Aruba Florin</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/British Pound(GBP)</title>
+      <link>https://gbp.fxexchangerate.com/</link>
+      <guid>https://gbp.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 0.85227 British Pound</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Bahamian Dollar(BSD)</title>
+      <link>https://bsd.fxexchangerate.com/</link>
+      <guid>https://bsd.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 1.12649 Bahamian Dollar</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Bahraini Dinar(BHD)</title>
+      <link>https://bhd.fxexchangerate.com/</link>
+      <guid>https://bhd.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 0.42479 Bahraini Dinar</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Bangladesh Taka(BDT)</title>
+      <link>https://bdt.fxexchangerate.com/</link>
+      <guid>https://bdt.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 96.65108 Bangladesh Taka</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Barbados Dollar(BBD)</title>
+      <link>https://bbd.fxexchangerate.com/</link>
+      <guid>https://bbd.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 2.27447 Barbados Dollar</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Belarus Ruble(BYR)</title>
+      <link>https://byr.fxexchangerate.com/</link>
+      <guid>https://byr.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 22079.7801 Belarus Ruble</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Belize Dollar(BZD)</title>
+      <link>https://bzd.fxexchangerate.com/</link>
+      <guid>https://bzd.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 2.27071 Belize Dollar</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Bermuda Dollar(BMD)</title>
+      <link>https://bmd.fxexchangerate.com/</link>
+      <guid>https://bmd.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 1.12652 Bermuda Dollar</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Bhutan Ngultrum(BTN)</title>
+      <link>https://btn.fxexchangerate.com/</link>
+      <guid>https://btn.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 85.9941 Bhutan Ngultrum</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Bolivian Boliviano(BOB)</title>
+      <link>https://bob.fxexchangerate.com/</link>
+      <guid>https://bob.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 7.76708 Bolivian Boliviano</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Botswana Pula(BWP)</title>
+      <link>https://bwp.fxexchangerate.com/</link>
+      <guid>https://bwp.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 13.33957 Botswana Pula</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Brazilian Real(BRL)</title>
+      <link>https://brl.fxexchangerate.com/</link>
+      <guid>https://brl.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 6.43896 Brazilian Real</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Brunei Dollar(BND)</title>
+      <link>https://bnd.fxexchangerate.com/</link>
+      <guid>https://bnd.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 1.54126 Brunei Dollar</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Bulgarian Lev(BGN)</title>
+      <link>https://bgn.fxexchangerate.com/</link>
+      <guid>https://bgn.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 1.95805 Bulgarian Lev</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Burundi Franc(BIF)</title>
+      <link>https://bif.fxexchangerate.com/</link>
+      <guid>https://bif.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 2254.16531 Burundi Franc</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Canadian Dollar(CAD)</title>
+      <link>https://cad.fxexchangerate.com/</link>
+      <guid>https://cad.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 1.4535 Canadian Dollar</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Chinese Yuan(CNY)</title>
+      <link>https://cny.fxexchangerate.com/</link>
+      <guid>https://cny.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 7.17322 Chinese Yuan</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Cambodia Riel(KHR)</title>
+      <link>https://khr.fxexchangerate.com/</link>
+      <guid>https://khr.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 4584.93393 Cambodia Riel</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Cape Verde Escudo(CVE)</title>
+      <link>https://cve.fxexchangerate.com/</link>
+      <guid>https://cve.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 110.82135 Cape Verde Escudo</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Cayman Islands Dollar(KYD)</title>
+      <link>https://kyd.fxexchangerate.com/</link>
+      <guid>https://kyd.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 0.93881 Cayman Islands Dollar</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/CFA Franc (BCEAO)(XOF)</title>
+      <link>https://xof.fxexchangerate.com/</link>
+      <guid>https://xof.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 655.63429 CFA Franc (BCEAO)</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/CFA Franc (BEAC)(XAF)</title>
+      <link>https://xaf.fxexchangerate.com/</link>
+      <guid>https://xaf.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 655.68611 CFA Franc (BEAC)</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Chilean Peso(CLP)</title>
+      <link>https://clp.fxexchangerate.com/</link>
+      <guid>https://clp.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 958.45396 Chilean Peso</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Colombian Peso(COP)</title>
+      <link>https://cop.fxexchangerate.com/</link>
+      <guid>https://cop.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 4506.07757 Colombian Peso</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Comoros Franc(KMF)</title>
+      <link>https://kmf.fxexchangerate.com/</link>
+      <guid>https://kmf.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 492.5706 Comoros Franc</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Costa Rica Colon(CRC)</title>
+      <link>https://crc.fxexchangerate.com/</link>
+      <guid>https://crc.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 718.91764 Costa Rica Colon</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Croatian Kuna(HRK)</title>
+      <link>https://hrk.fxexchangerate.com/</link>
+      <guid>https://hrk.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 7.51929 Croatian Kuna</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Cuban Peso(CUP)</title>
+      <link>https://cup.fxexchangerate.com/</link>
+      <guid>https://cup.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 29.85276 Cuban Peso</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Czech Koruna(CZK)</title>
+      <link>https://czk.fxexchangerate.com/</link>
+      <guid>https://czk.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 25.27177 Czech Koruna</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Euro(EUR)</title>
+      <link>https://eur.fxexchangerate.com/</link>
+      <guid>https://eur.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 1 Euro</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Danish Krone(DKK)</title>
+      <link>https://dkk.fxexchangerate.com/</link>
+      <guid>https://dkk.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 7.43636 Danish Krone</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Djibouti Franc(DJF)</title>
+      <link>https://djf.fxexchangerate.com/</link>
+      <guid>https://djf.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 200.20503 Djibouti Franc</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Dominican Peso(DOP)</title>
+      <link>https://dop.fxexchangerate.com/</link>
+      <guid>https://dop.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 64.1555 Dominican Peso</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/East Caribbean Dollar(XCD)</title>
+      <link>https://xcd.fxexchangerate.com/</link>
+      <guid>https://xcd.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 3.04447 East Caribbean Dollar</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Egyptian Pound(EGP)</title>
+      <link>https://egp.fxexchangerate.com/</link>
+      <guid>https://egp.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 17.72612 Egyptian Pound</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/El Salvador Colon(SVC)</title>
+      <link>https://svc.fxexchangerate.com/</link>
+      <guid>https://svc.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 9.85671 El Salvador Colon</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Estonian Kroon(EEK)</title>
+      <link>https://eek.fxexchangerate.com/</link>
+      <guid>https://eek.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 15.6466 Estonian Kroon</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Ethiopian Birr(ETB)</title>
+      <link>https://etb.fxexchangerate.com/</link>
+      <guid>https://etb.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 54.46699 Ethiopian Birr</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Falkland Islands Pound(FKP)</title>
+      <link>https://fkp.fxexchangerate.com/</link>
+      <guid>https://fkp.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 0.84982 Falkland Islands Pound</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Fiji Dollar(FJD)</title>
+      <link>https://fjd.fxexchangerate.com/</link>
+      <guid>https://fjd.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 2.39386 Fiji Dollar</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Hong Kong Dollar(HKD)</title>
+      <link>https://hkd.fxexchangerate.com/</link>
+      <guid>https://hkd.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 8.78922 Hong Kong Dollar</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Indonesian Rupiah(IDR)</title>
+      <link>https://idr.fxexchangerate.com/</link>
+      <guid>https://idr.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 16184.70412 Indonesian Rupiah</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Indian Rupee(INR)</title>
+      <link>https://inr.fxexchangerate.com/</link>
+      <guid>https://inr.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 86.07487 Indian Rupee</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Gambian Dalasi(GMD)</title>
+      <link>https://gmd.fxexchangerate.com/</link>
+      <guid>https://gmd.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 59.42333 Gambian Dalasi</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Guatemala Quetzal(GTQ)</title>
+      <link>https://gtq.fxexchangerate.com/</link>
+      <guid>https://gtq.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 8.7109 Guatemala Quetzal</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Guinea Franc(GNF)</title>
+      <link>https://gnf.fxexchangerate.com/</link>
+      <guid>https://gnf.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 10504.79334 Guinea Franc</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Guyana Dollar(GYD)</title>
+      <link>https://gyd.fxexchangerate.com/</link>
+      <guid>https://gyd.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 235.68475 Guyana Dollar</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Haiti Gourde(HTG)</title>
+      <link>https://htg.fxexchangerate.com/</link>
+      <guid>https://htg.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 112.82993 Haiti Gourde</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Honduras Lempira(HNL)</title>
+      <link>https://hnl.fxexchangerate.com/</link>
+      <guid>https://hnl.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 27.38557 Honduras Lempira</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Hungarian Forint(HUF)</title>
+      <link>https://huf.fxexchangerate.com/</link>
+      <guid>https://huf.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 370.15963 Hungarian Forint</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Iceland Krona(ISK)</title>
+      <link>https://isk.fxexchangerate.com/</link>
+      <guid>https://isk.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 146.98825 Iceland Krona</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Iran Rial(IRR)</title>
+      <link>https://irr.fxexchangerate.com/</link>
+      <guid>https://irr.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 47595.44436 Iran Rial</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Iraqi Dinar(IQD)</title>
+      <link>https://iqd.fxexchangerate.com/</link>
+      <guid>https://iqd.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 1644.71831 Iraqi Dinar</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Israeli Shekel(ILS)</title>
+      <link>https://ils.fxexchangerate.com/</link>
+      <guid>https://ils.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 3.53611 Israeli Shekel</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Japanese Yen(JPY)</title>
+      <link>https://jpy.fxexchangerate.com/</link>
+      <guid>https://jpy.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 128.29028 Japanese Yen</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Jamaican Dollar(JMD)</title>
+      <link>https://jmd.fxexchangerate.com/</link>
+      <guid>https://jmd.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 173.57974 Jamaican Dollar</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Jordanian Dinar(JOD)</title>
+      <link>https://jod.fxexchangerate.com/</link>
+      <guid>https://jod.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 0.79874 Jordanian Dinar</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Kazakhstan Tenge(KZT)</title>
+      <link>https://kzt.fxexchangerate.com/</link>
+      <guid>https://kzt.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 493.33776 Kazakhstan Tenge</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Kenyan Shilling(KES)</title>
+      <link>https://kes.fxexchangerate.com/</link>
+      <guid>https://kes.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 127.29669 Kenyan Shilling</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Korean Won(KRW)</title>
+      <link>https://krw.fxexchangerate.com/</link>
+      <guid>https://krw.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 1340.0962 Korean Won</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Kuwaiti Dinar(KWD)</title>
+      <link>https://kwd.fxexchangerate.com/</link>
+      <guid>https://kwd.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 0.34175 Kuwaiti Dinar</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Lao Kip(LAK)</title>
+      <link>https://lak.fxexchangerate.com/</link>
+      <guid>https://lak.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 12459.30449 Lao Kip</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Latvian Lat(LVL)</title>
+      <link>https://lvl.fxexchangerate.com/</link>
+      <guid>https://lvl.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 0.68142 Latvian Lat</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Lebanese Pound(LBP)</title>
+      <link>https://lbp.fxexchangerate.com/</link>
+      <guid>https://lbp.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 1725.82771 Lebanese Pound</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Lesotho Loti(LSL)</title>
+      <link>https://lsl.fxexchangerate.com/</link>
+      <guid>https://lsl.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 18.26099 Lesotho Loti</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Liberian Dollar(LRD)</title>
+      <link>https://lrd.fxexchangerate.com/</link>
+      <guid>https://lrd.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 159.45882 Liberian Dollar</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Libyan Dinar(LYD)</title>
+      <link>https://lyd.fxexchangerate.com/</link>
+      <guid>https://lyd.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 5.1933 Libyan Dinar</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Lithuanian Lita(LTL)</title>
+      <link>https://ltl.fxexchangerate.com/</link>
+      <guid>https://ltl.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 3.32632 Lithuanian Lita</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Macau Pataca(MOP)</title>
+      <link>https://mop.fxexchangerate.com/</link>
+      <guid>https://mop.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 9.05446 Macau Pataca</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Macedonian Denar(MKD)</title>
+      <link>https://mkd.fxexchangerate.com/</link>
+      <guid>https://mkd.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 61.64945 Macedonian Denar</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Malawi Kwacha(MWK)</title>
+      <link>https://mwk.fxexchangerate.com/</link>
+      <guid>https://mwk.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 922.06401 Malawi Kwacha</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Malaysian Ringgit(MYR)</title>
+      <link>https://myr.fxexchangerate.com/</link>
+      <guid>https://myr.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 4.76575 Malaysian Ringgit</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Maldives Rufiyaa(MVR)</title>
+      <link>https://mvr.fxexchangerate.com/</link>
+      <guid>https://mvr.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 17.41667 Maldives Rufiyaa</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Mauritania Ougulya(MRO)</title>
+      <link>https://mro.fxexchangerate.com/</link>
+      <guid>https://mro.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 402.16742 Mauritania Ougulya</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Mauritius Rupee(MUR)</title>
+      <link>https://mur.fxexchangerate.com/</link>
+      <guid>https://mur.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 48.72163 Mauritius Rupee</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Mexican Peso(MXN)</title>
+      <link>https://mxn.fxexchangerate.com/</link>
+      <guid>https://mxn.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 23.91533 Mexican Peso</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Moldovan Leu(MDL)</title>
+      <link>https://mdl.fxexchangerate.com/</link>
+      <guid>https://mdl.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 19.96722 Moldovan Leu</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Mongolian Tugrik(MNT)</title>
+      <link>https://mnt.fxexchangerate.com/</link>
+      <guid>https://mnt.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 3220.03177 Mongolian Tugrik</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Moroccan Dirham(MAD)</title>
+      <link>https://mad.fxexchangerate.com/</link>
+      <guid>https://mad.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 10.44678 Moroccan Dirham</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Myanmar Kyat(MMK)</title>
+      <link>https://mmk.fxexchangerate.com/</link>
+      <guid>https://mmk.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 2005.21578 Myanmar Kyat</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Namibian Dollar(NAD)</title>
+      <link>https://nad.fxexchangerate.com/</link>
+      <guid>https://nad.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 18.26122 Namibian Dollar</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Nepalese Rupee(NPR)</title>
+      <link>https://npr.fxexchangerate.com/</link>
+      <guid>https://npr.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 137.5897 Nepalese Rupee</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Neth Antilles Guilder(ANG)</title>
+      <link>https://ang.fxexchangerate.com/</link>
+      <guid>https://ang.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 2.03028 Neth Antilles Guilder</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/New Zealand Dollar(NZD)</title>
+      <link>https://nzd.fxexchangerate.com/</link>
+      <guid>https://nzd.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 1.67199 New Zealand Dollar</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Nicaragua Cordoba(NIO)</title>
+      <link>https://nio.fxexchangerate.com/</link>
+      <guid>https://nio.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 39.86752 Nicaragua Cordoba</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Nigerian Naira(NGN)</title>
+      <link>https://ngn.fxexchangerate.com/</link>
+      <guid>https://ngn.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 461.85042 Nigerian Naira</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/North Korean Won(KPW)</title>
+      <link>https://kpw.fxexchangerate.com/</link>
+      <guid>https://kpw.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 1013.86745 North Korean Won</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Norwegian Krone(NOK)</title>
+      <link>https://nok.fxexchangerate.com/</link>
+      <guid>https://nok.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 10.21867 Norwegian Krone</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Omani Rial(OMR)</title>
+      <link>https://omr.fxexchangerate.com/</link>
+      <guid>https://omr.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 0.43364 Omani Rial</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Pacific Franc(XPF)</title>
+      <link>https://xpf.fxexchangerate.com/</link>
+      <guid>https://xpf.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 119.80534 Pacific Franc</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Pakistani Rupee(PKR)</title>
+      <link>https://pkr.fxexchangerate.com/</link>
+      <guid>https://pkr.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 200.52045 Pakistani Rupee</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Panama Balboa(PAB)</title>
+      <link>https://pab.fxexchangerate.com/</link>
+      <guid>https://pab.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 1.12649 Panama Balboa</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Papua New Guinea Kina(PGK)</title>
+      <link>https://pgk.fxexchangerate.com/</link>
+      <guid>https://pgk.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 3.95458 Papua New Guinea Kina</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Paraguayan Guarani(PYG)</title>
+      <link>https://pyg.fxexchangerate.com/</link>
+      <guid>https://pyg.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 7658.10136 Paraguayan Guarani</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Peruvian Nuevo Sol(PEN)</title>
+      <link>https://pen.fxexchangerate.com/</link>
+      <guid>https://pen.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 4.56612 Peruvian Nuevo Sol</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Philippine Peso(PHP)</title>
+      <link>https://php.fxexchangerate.com/</link>
+      <guid>https://php.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 56.53494 Philippine Peso</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Polish Zloty(PLN)</title>
+      <link>https://pln.fxexchangerate.com/</link>
+      <guid>https://pln.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 4.62898 Polish Zloty</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Qatar Rial(QAR)</title>
+      <link>https://qar.fxexchangerate.com/</link>
+      <guid>https://qar.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 4.10166 Qatar Rial</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Romanian New Leu(RON)</title>
+      <link>https://ron.fxexchangerate.com/</link>
+      <guid>https://ron.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 4.95061 Romanian New Leu</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Russian Rouble(RUB)</title>
+      <link>https://rub.fxexchangerate.com/</link>
+      <guid>https://rub.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 83.67944 Russian Rouble</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Rwanda Franc(RWF)</title>
+      <link>https://rwf.fxexchangerate.com/</link>
+      <guid>https://rwf.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 1129.33569 Rwanda Franc</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Swiss Franc(CHF)</title>
+      <link>https://chf.fxexchangerate.com/</link>
+      <guid>https://chf.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 1.04365 Swiss Franc</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Samoa Tala(WST)</title>
+      <link>https://wst.fxexchangerate.com/</link>
+      <guid>https://wst.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 2.92914 Samoa Tala</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Sao Tome Dobra(STD)</title>
+      <link>https://std.fxexchangerate.com/</link>
+      <guid>https://std.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 23316.6984 Sao Tome Dobra</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Saudi Arabian Riyal(SAR)</title>
+      <link>https://sar.fxexchangerate.com/</link>
+      <guid>https://sar.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 4.22663 Saudi Arabian Riyal</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Seychelles Rupee(SCR)</title>
+      <link>https://scr.fxexchangerate.com/</link>
+      <guid>https://scr.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 14.85248 Seychelles Rupee</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Sierra Leone Leone(SLL)</title>
+      <link>https://sll.fxexchangerate.com/</link>
+      <guid>https://sll.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 12653.06582 Sierra Leone Leone</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Singapore Dollar(SGD)</title>
+      <link>https://sgd.fxexchangerate.com/</link>
+      <guid>https://sgd.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 1.54182 Singapore Dollar</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Slovak Koruna(SKK)</title>
+      <link>https://skk.fxexchangerate.com/</link>
+      <guid>https://skk.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 25.01549 Slovak Koruna</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Solomon Islands Dollar(SBD)</title>
+      <link>https://sbd.fxexchangerate.com/</link>
+      <guid>https://sbd.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 9.12538 Solomon Islands Dollar</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Somali Shilling(SOS)</title>
+      <link>https://sos.fxexchangerate.com/</link>
+      <guid>https://sos.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 659.01497 Somali Shilling</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/South African Rand(ZAR)</title>
+      <link>https://zar.fxexchangerate.com/</link>
+      <guid>https://zar.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 18.23069 South African Rand</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Sri Lanka Rupee(LKR)</title>
+      <link>https://lkr.fxexchangerate.com/</link>
+      <guid>https://lkr.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 227.55804 Sri Lanka Rupee</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/St Helena Pound(SHP)</title>
+      <link>https://shp.fxexchangerate.com/</link>
+      <guid>https://shp.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 1.55167 St Helena Pound</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Sudanese Pound(SDG)</title>
+      <link>https://sdg.fxexchangerate.com/</link>
+      <guid>https://sdg.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 492.85223 Sudanese Pound</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Swaziland Lilageni(SZL)</title>
+      <link>https://szl.fxexchangerate.com/</link>
+      <guid>https://szl.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 18.26077 Swaziland Lilageni</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Swedish Krona(SEK)</title>
+      <link>https://sek.fxexchangerate.com/</link>
+      <guid>https://sek.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 10.2708 Swedish Krona</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Syrian Pound(SYP)</title>
+      <link>https://syp.fxexchangerate.com/</link>
+      <guid>https://syp.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 2830.36871 Syrian Pound</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/United States Dollar(USD)</title>
+      <link>https://usd.fxexchangerate.com/</link>
+      <guid>https://usd.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 1.12652 United States Dollar</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Thai Baht(THB)</title>
+      <link>https://thb.fxexchangerate.com/</link>
+      <guid>https://thb.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 37.65988 Thai Baht</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Turkish Lira(TRY)</title>
+      <link>https://try.fxexchangerate.com/</link>
+      <guid>https://try.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 16.65717 Turkish Lira</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Taiwan Dollar(TWD)</title>
+      <link>https://twd.fxexchangerate.com/</link>
+      <guid>https://twd.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 31.34033 Taiwan Dollar</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Tanzanian Shilling(TZS)</title>
+      <link>https://tzs.fxexchangerate.com/</link>
+      <guid>https://tzs.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 2596.6272 Tanzanian Shilling</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Tongan paʻanga(TOP)</title>
+      <link>https://top.fxexchangerate.com/</link>
+      <guid>https://top.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 2.58119 Tongan paʻanga</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Trinidad Tobago Dollar(TTD)</title>
+      <link>https://ttd.fxexchangerate.com/</link>
+      <guid>https://ttd.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 7.65223 Trinidad Tobago Dollar</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Tunisian Dinar(TND)</title>
+      <link>https://tnd.fxexchangerate.com/</link>
+      <guid>https://tnd.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 3.25335 Tunisian Dinar</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/UAE Dirham(AED)</title>
+      <link>https://aed.fxexchangerate.com/</link>
+      <guid>https://aed.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 4.13768 UAE Dirham</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Ugandan Shilling(UGX)</title>
+      <link>https://ugx.fxexchangerate.com/</link>
+      <guid>https://ugx.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 4015.95151 Ugandan Shilling</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Ukraine Hryvnia(UAH)</title>
+      <link>https://uah.fxexchangerate.com/</link>
+      <guid>https://uah.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 30.69146 Ukraine Hryvnia</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Uruguayan New Peso(UYU)</title>
+      <link>https://uyu.fxexchangerate.com/</link>
+      <guid>https://uyu.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 49.83181 Uruguayan New Peso</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Vanuatu Vatu(VUV)</title>
+      <link>https://vuv.fxexchangerate.com/</link>
+      <guid>https://vuv.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 127.5817 Vanuatu Vatu</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Vietnam Dong(VND)</title>
+      <link>https://vnd.fxexchangerate.com/</link>
+      <guid>https://vnd.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 25949.37422 Vietnam Dong</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Yemen Riyal(YER)</title>
+      <link>https://yer.fxexchangerate.com/</link>
+      <guid>https://yer.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 281.91148 Yemen Riyal</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Zambian Kwacha(ZMK)</title>
+      <link>https://zmk.fxexchangerate.com/</link>
+      <guid>https://zmk.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 5846.07239 Zambian Kwacha</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Zimbabwe dollar(ZWD)</title>
+      <link>https://zwd.fxexchangerate.com/</link>
+      <guid>https://zwd.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 407.68737 Zimbabwe dollar</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Venezuelan Bolivar(VEF)</title>
+      <link>https://vef.fxexchangerate.com/</link>
+      <guid>https://vef.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 240883641811.89 Venezuelan Bolivar</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Uzbekistan Sum(UZS)</title>
+      <link>https://uzs.fxexchangerate.com/</link>
+      <guid>https://uzs.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 12222.73541 Uzbekistan Sum</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Kyrgyzstan Som(KGS)</title>
+      <link>https://kgs.fxexchangerate.com/</link>
+      <guid>https://kgs.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 95.52107 Kyrgyzstan Som</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Ghanaian Cedi(GHS)</title>
+      <link>https://ghs.fxexchangerate.com/</link>
+      <guid>https://ghs.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 6.88865 Ghanaian Cedi</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Belarusian ruble(BYN)</title>
+      <link>https://byn.fxexchangerate.com/</link>
+      <guid>https://byn.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 2.84916 Belarusian ruble</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Afghan afghani(AFN)</title>
+      <link>https://afn.fxexchangerate.com/</link>
+      <guid>https://afn.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 124.55925 Afghan afghani</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Angolan kwanza(AOA)</title>
+      <link>https://aoa.fxexchangerate.com/</link>
+      <guid>https://aoa.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 628.55163 Angolan kwanza</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Armenian dram(AMD)</title>
+      <link>https://amd.fxexchangerate.com/</link>
+      <guid>https://amd.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 543.00488 Armenian dram</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Azerbaijani manat(AZN)</title>
+      <link>https://azn.fxexchangerate.com/</link>
+      <guid>https://azn.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 1.91637 Azerbaijani manat</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Convertible mark(BAM)</title>
+      <link>https://bam.fxexchangerate.com/</link>
+      <guid>https://bam.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 1.95497 Convertible mark</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Congolese franc(CDF)</title>
+      <link>https://cdf.fxexchangerate.com/</link>
+      <guid>https://cdf.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 2254.16531 Congolese franc</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Eritrean nakfa(ERN)</title>
+      <link>https://ern.fxexchangerate.com/</link>
+      <guid>https://ern.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 16.8979 Eritrean nakfa</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Georgian lari(GEL)</title>
+      <link>https://gel.fxexchangerate.com/</link>
+      <guid>https://gel.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 3.4866 Georgian lari</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Malagasy ariary(MGA)</title>
+      <link>https://mga.fxexchangerate.com/</link>
+      <guid>https://mga.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 4484.6737 Malagasy ariary</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Mozambican metical(MZN)</title>
+      <link>https://mzn.fxexchangerate.com/</link>
+      <guid>https://mzn.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 71.90551 Mozambican metical</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Serbian dinar(RSD)</title>
+      <link>https://rsd.fxexchangerate.com/</link>
+      <guid>https://rsd.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 117.57483 Serbian dinar</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Surinamese dollar(SRD)</title>
+      <link>https://srd.fxexchangerate.com/</link>
+      <guid>https://srd.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 24.26917 Surinamese dollar</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Tajikistani somoni(TJS)</title>
+      <link>https://tjs.fxexchangerate.com/</link>
+      <guid>https://tjs.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 12.71773 Tajikistani somoni</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Turkmenistan manat(TMT)</title>
+      <link>https://tmt.fxexchangerate.com/</link>
+      <guid>https://tmt.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 3.94282 Turkmenistan manat</description>
+      <category>Euro</category>
+    </item>
+    <item>
+      <title>Euro(EUR)/Zambian kwacha(ZMW)</title>
+      <link>https://zmw.fxexchangerate.com/</link>
+      <guid>https://zmw.fxexchangerate.com/</guid>
+      <pubDate>Wed, 15 Dec 2021 10:05:18 PST</pubDate>
+      <description>1 Euro = 18.41825 Zambian kwacha</description>
+      <category>Euro</category>
+    </item>
+  </channel>
+</rss>

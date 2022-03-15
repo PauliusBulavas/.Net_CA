@@ -1,0 +1,14 @@
+C:\Users\pauli\Documents\GitHub\.Net_CA\SavarankiskasPaskaitaDesimt\obj\Debug\netcoreapp3.1\SavarankiskasPaskaitaDesimt.csproj.AssemblyReference.cache
+C:\Users\pauli\Documents\GitHub\.Net_CA\SavarankiskasPaskaitaDesimt\obj\Debug\netcoreapp3.1\SavarankiskasPaskaitaDesimt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauli\Documents\GitHub\.Net_CA\SavarankiskasPaskaitaDesimt\obj\Debug\netcoreapp3.1\SavarankiskasPaskaitaDesimt.AssemblyInfoInputs.cache
+C:\Users\pauli\Documents\GitHub\.Net_CA\SavarankiskasPaskaitaDesimt\obj\Debug\netcoreapp3.1\SavarankiskasPaskaitaDesimt.AssemblyInfo.cs
+C:\Users\pauli\Documents\GitHub\.Net_CA\SavarankiskasPaskaitaDesimt\obj\Debug\netcoreapp3.1\SavarankiskasPaskaitaDesimt.csproj.CoreCompileInputs.cache
+C:\Users\pauli\Documents\GitHub\.Net_CA\SavarankiskasPaskaitaDesimt\bin\Debug\netcoreapp3.1\SavarankiskasPaskaitaDesimt.exe
+C:\Users\pauli\Documents\GitHub\.Net_CA\SavarankiskasPaskaitaDesimt\bin\Debug\netcoreapp3.1\SavarankiskasPaskaitaDesimt.deps.json
+C:\Users\pauli\Documents\GitHub\.Net_CA\SavarankiskasPaskaitaDesimt\bin\Debug\netcoreapp3.1\SavarankiskasPaskaitaDesimt.runtimeconfig.json
+C:\Users\pauli\Documents\GitHub\.Net_CA\SavarankiskasPaskaitaDesimt\bin\Debug\netcoreapp3.1\SavarankiskasPaskaitaDesimt.runtimeconfig.dev.json
+C:\Users\pauli\Documents\GitHub\.Net_CA\SavarankiskasPaskaitaDesimt\bin\Debug\netcoreapp3.1\SavarankiskasPaskaitaDesimt.dll
+C:\Users\pauli\Documents\GitHub\.Net_CA\SavarankiskasPaskaitaDesimt\bin\Debug\netcoreapp3.1\SavarankiskasPaskaitaDesimt.pdb
+C:\Users\pauli\Documents\GitHub\.Net_CA\SavarankiskasPaskaitaDesimt\obj\Debug\netcoreapp3.1\SavarankiskasPaskaitaDesimt.dll
+C:\Users\pauli\Documents\GitHub\.Net_CA\SavarankiskasPaskaitaDesimt\obj\Debug\netcoreapp3.1\SavarankiskasPaskaitaDesimt.pdb
+C:\Users\pauli\Documents\GitHub\.Net_CA\SavarankiskasPaskaitaDesimt\obj\Debug\netcoreapp3.1\SavarankiskasPaskaitaDesimt.genruntimeconfig.cache

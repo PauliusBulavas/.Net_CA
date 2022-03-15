@@ -1,0 +1,14 @@
+C:\Users\pauli\source\repos\BilietavimoSistema\bin\Debug\netcoreapp3.1\BilietavimoSistema.exe
+C:\Users\pauli\source\repos\BilietavimoSistema\bin\Debug\netcoreapp3.1\BilietavimoSistema.deps.json
+C:\Users\pauli\source\repos\BilietavimoSistema\bin\Debug\netcoreapp3.1\BilietavimoSistema.runtimeconfig.json
+C:\Users\pauli\source\repos\BilietavimoSistema\bin\Debug\netcoreapp3.1\BilietavimoSistema.runtimeconfig.dev.json
+C:\Users\pauli\source\repos\BilietavimoSistema\bin\Debug\netcoreapp3.1\BilietavimoSistema.dll
+C:\Users\pauli\source\repos\BilietavimoSistema\bin\Debug\netcoreapp3.1\BilietavimoSistema.pdb
+C:\Users\pauli\source\repos\BilietavimoSistema\obj\Debug\netcoreapp3.1\BilietavimoSistema.csproj.AssemblyReference.cache
+C:\Users\pauli\source\repos\BilietavimoSistema\obj\Debug\netcoreapp3.1\BilietavimoSistema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauli\source\repos\BilietavimoSistema\obj\Debug\netcoreapp3.1\BilietavimoSistema.AssemblyInfoInputs.cache
+C:\Users\pauli\source\repos\BilietavimoSistema\obj\Debug\netcoreapp3.1\BilietavimoSistema.AssemblyInfo.cs
+C:\Users\pauli\source\repos\BilietavimoSistema\obj\Debug\netcoreapp3.1\BilietavimoSistema.csproj.CoreCompileInputs.cache
+C:\Users\pauli\source\repos\BilietavimoSistema\obj\Debug\netcoreapp3.1\BilietavimoSistema.dll
+C:\Users\pauli\source\repos\BilietavimoSistema\obj\Debug\netcoreapp3.1\BilietavimoSistema.pdb
+C:\Users\pauli\source\repos\BilietavimoSistema\obj\Debug\netcoreapp3.1\BilietavimoSistema.genruntimeconfig.cache

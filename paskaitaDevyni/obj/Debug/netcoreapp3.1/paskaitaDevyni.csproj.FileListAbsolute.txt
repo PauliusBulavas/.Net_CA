@@ -1,0 +1,17 @@
+C:\Users\pauli\Documents\GitHub\.Net_CA\paskaitaDevyni\bin\Debug\netcoreapp3.1\paskaitaDevyni.exe
+C:\Users\pauli\Documents\GitHub\.Net_CA\paskaitaDevyni\bin\Debug\netcoreapp3.1\paskaitaDevyni.deps.json
+C:\Users\pauli\Documents\GitHub\.Net_CA\paskaitaDevyni\bin\Debug\netcoreapp3.1\paskaitaDevyni.runtimeconfig.json
+C:\Users\pauli\Documents\GitHub\.Net_CA\paskaitaDevyni\bin\Debug\netcoreapp3.1\paskaitaDevyni.runtimeconfig.dev.json
+C:\Users\pauli\Documents\GitHub\.Net_CA\paskaitaDevyni\bin\Debug\netcoreapp3.1\paskaitaDevyni.dll
+C:\Users\pauli\Documents\GitHub\.Net_CA\paskaitaDevyni\bin\Debug\netcoreapp3.1\paskaitaDevyni.pdb
+C:\Users\pauli\Documents\GitHub\.Net_CA\paskaitaDevyni\bin\Debug\netcoreapp3.1\Saskaita.dll
+C:\Users\pauli\Documents\GitHub\.Net_CA\paskaitaDevyni\bin\Debug\netcoreapp3.1\Saskaita.pdb
+C:\Users\pauli\Documents\GitHub\.Net_CA\paskaitaDevyni\obj\Debug\netcoreapp3.1\paskaitaDevyni.csproj.AssemblyReference.cache
+C:\Users\pauli\Documents\GitHub\.Net_CA\paskaitaDevyni\obj\Debug\netcoreapp3.1\paskaitaDevyni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauli\Documents\GitHub\.Net_CA\paskaitaDevyni\obj\Debug\netcoreapp3.1\paskaitaDevyni.AssemblyInfoInputs.cache
+C:\Users\pauli\Documents\GitHub\.Net_CA\paskaitaDevyni\obj\Debug\netcoreapp3.1\paskaitaDevyni.AssemblyInfo.cs
+C:\Users\pauli\Documents\GitHub\.Net_CA\paskaitaDevyni\obj\Debug\netcoreapp3.1\paskaitaDevyni.csproj.CoreCompileInputs.cache
+C:\Users\pauli\Documents\GitHub\.Net_CA\paskaitaDevyni\obj\Debug\netcoreapp3.1\paskaitaDevyni.csproj.CopyComplete
+C:\Users\pauli\Documents\GitHub\.Net_CA\paskaitaDevyni\obj\Debug\netcoreapp3.1\paskaitaDevyni.dll
+C:\Users\pauli\Documents\GitHub\.Net_CA\paskaitaDevyni\obj\Debug\netcoreapp3.1\paskaitaDevyni.pdb
+C:\Users\pauli\Documents\GitHub\.Net_CA\paskaitaDevyni\obj\Debug\netcoreapp3.1\paskaitaDevyni.genruntimeconfig.cache

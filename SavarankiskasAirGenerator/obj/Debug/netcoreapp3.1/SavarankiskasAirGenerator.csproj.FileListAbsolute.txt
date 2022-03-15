@@ -1,0 +1,14 @@
+C:\Users\pauli\Documents\GitHub\.Net_CA\SavarankiskasAirGenerator\bin\Debug\netcoreapp3.1\SavarankiskasAirGenerator.exe
+C:\Users\pauli\Documents\GitHub\.Net_CA\SavarankiskasAirGenerator\bin\Debug\netcoreapp3.1\SavarankiskasAirGenerator.deps.json
+C:\Users\pauli\Documents\GitHub\.Net_CA\SavarankiskasAirGenerator\bin\Debug\netcoreapp3.1\SavarankiskasAirGenerator.runtimeconfig.json
+C:\Users\pauli\Documents\GitHub\.Net_CA\SavarankiskasAirGenerator\bin\Debug\netcoreapp3.1\SavarankiskasAirGenerator.runtimeconfig.dev.json
+C:\Users\pauli\Documents\GitHub\.Net_CA\SavarankiskasAirGenerator\bin\Debug\netcoreapp3.1\SavarankiskasAirGenerator.dll
+C:\Users\pauli\Documents\GitHub\.Net_CA\SavarankiskasAirGenerator\bin\Debug\netcoreapp3.1\SavarankiskasAirGenerator.pdb
+C:\Users\pauli\Documents\GitHub\.Net_CA\SavarankiskasAirGenerator\obj\Debug\netcoreapp3.1\SavarankiskasAirGenerator.csproj.AssemblyReference.cache
+C:\Users\pauli\Documents\GitHub\.Net_CA\SavarankiskasAirGenerator\obj\Debug\netcoreapp3.1\SavarankiskasAirGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauli\Documents\GitHub\.Net_CA\SavarankiskasAirGenerator\obj\Debug\netcoreapp3.1\SavarankiskasAirGenerator.AssemblyInfoInputs.cache
+C:\Users\pauli\Documents\GitHub\.Net_CA\SavarankiskasAirGenerator\obj\Debug\netcoreapp3.1\SavarankiskasAirGenerator.AssemblyInfo.cs
+C:\Users\pauli\Documents\GitHub\.Net_CA\SavarankiskasAirGenerator\obj\Debug\netcoreapp3.1\SavarankiskasAirGenerator.csproj.CoreCompileInputs.cache
+C:\Users\pauli\Documents\GitHub\.Net_CA\SavarankiskasAirGenerator\obj\Debug\netcoreapp3.1\SavarankiskasAirGenerator.dll
+C:\Users\pauli\Documents\GitHub\.Net_CA\SavarankiskasAirGenerator\obj\Debug\netcoreapp3.1\SavarankiskasAirGenerator.pdb
+C:\Users\pauli\Documents\GitHub\.Net_CA\SavarankiskasAirGenerator\obj\Debug\netcoreapp3.1\SavarankiskasAirGenerator.genruntimeconfig.cache

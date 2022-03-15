@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "paskaitaDevyni/1.0.0": {
+        "dependencies": {
+          "Saskaita": "1.0.0"
+        },
+        "runtime": {
+          "paskaitaDevyni.dll": {}
+        }
+      },
+      "Saskaita/1.0.0": {
+        "runtime": {
+          "Saskaita.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "paskaitaDevyni/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Saskaita/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
